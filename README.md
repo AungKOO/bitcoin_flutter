@@ -1,6 +1,7 @@
 # Bitcoin Exchange
 
-##Learning Flutter from Appbrewery
+** Learning Flutter from Appbrewery
+
 The objective of this project is that I've learnt about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.And Show bitcoions exchange rate using api.
 
 
